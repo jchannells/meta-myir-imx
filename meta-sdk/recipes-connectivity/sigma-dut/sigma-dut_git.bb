@@ -8,7 +8,7 @@ SRC_URI = "git://gitlab.com/quicla/platform/vendor/qcom-opensource/wlan/utils/si
            file://0001-Add-handling-of-DYN_BW_SGNL-command-for-DRIVER_LINUX.patch \
 "
 
-SRCREV = "d90bb741d7085f5481f11b39ae0d973a2646575b"
+SRCREV = "fd7359aed6aaba745e31dd0a9fed80578372d554"
 
 S = "${WORKDIR}/git"
 
